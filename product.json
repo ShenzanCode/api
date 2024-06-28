@@ -1,0 +1,32 @@
+[
+   {
+    "name": "iphone",
+    "price": 10000,
+    "featured": false,
+    "company": "Apple"
+   },
+   {
+    "name": "altra watches",
+    "price": 10000,
+    "featured": false,
+    "company": "hp"
+   },
+   {
+    "name": "altra watches",
+    "price": 10000,
+    "featured": false,
+    "company": "'Google"
+   },
+   {
+    "name": "altra watches",
+    "price": 10000,
+    "featured": false,
+    "company": "Nokia"
+   },
+   {
+    "name": "altra watches",
+    "price": 10000,
+    "featured": false,
+    "company": "Samsung"
+   }
+]
